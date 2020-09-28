@@ -1,4 +1,4 @@
-﻿namespace SendFileByChunks
+﻿namespace net_core_send_file_by_chunks
 {
     public class FileByChunksRequest
     {

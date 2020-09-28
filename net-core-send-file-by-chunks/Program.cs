@@ -3,7 +3,7 @@ using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace SendFileByChunks
+namespace net_core_send_file_by_chunks
 {
     class SendFileByChunks
     {
